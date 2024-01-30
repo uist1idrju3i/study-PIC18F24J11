@@ -17,7 +17,7 @@
                     <type>2</type>
                 </confElem>
             </confList>
-            <sourceEncoding>Shift_JIS</sourceEncoding>
+            <sourceEncoding>UTF-8</sourceEncoding>
             <formatting>
                 <project-formatting-style>false</project-formatting-style>
             </formatting>
